@@ -1,3 +1,8 @@
+# Key takeway: 
+
 1. Two Sum
 
-Key takeway: use hash map and a single loop to efficiently solve the problem
+Use hash map and a single loop to efficiently solve the problem
+
+2. Contains Duplicate
+Use set to create a collection of unique values
