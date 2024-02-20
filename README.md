@@ -7,3 +7,7 @@
 ### 2. Contains Duplicate
 
 - Use set to create a collection of unique values.
+
+### 4. Group Anagrams
+
+- Use hash map to sort elements.
