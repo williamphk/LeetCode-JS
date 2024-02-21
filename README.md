@@ -11,3 +11,7 @@
 ### 4. Group Anagrams
 
 - Use hash map to sort elements.
+
+### 5. Top K Frequent Element
+
+- Convert a map to array to perform a number of operations like sort, slice and map.
