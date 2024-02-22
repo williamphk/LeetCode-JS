@@ -15,3 +15,7 @@
 ### 5. Top K Frequent Element
 
 - Convert a map to array to perform a number of operations like sort, slice and map.
+
+### 6. Product Except Self
+
+- Implement a two-pass algorithm to aviod the division of zero.
