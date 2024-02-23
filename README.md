@@ -20,6 +20,6 @@
 
 - Implement a two-pass algorithm to aviod the division of zero.
 
-### 7. Longest Consecutive Sequence
+### 8. Longest Consecutive Sequence
 
 - Always compare current number to previous number in array to avoid end-of-array (i.e. undefined) issues.
