@@ -22,4 +22,4 @@
 
 ### 7. Longest Consecutive Sequence
 
-- Always compare current number to a previous number in array to avoid end-of-array (i.e. undefined) issues.
+- Always compare current number to previous number in array to avoid end-of-array (i.e. undefined) issues.
