@@ -26,4 +26,4 @@
 
 ### 9. Valid Palindrome
 
-- Two-pointer technique, check the characters in both end of the string.
+- Two-pointer technique, check elements in both end of the array.
