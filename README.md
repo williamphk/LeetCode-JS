@@ -22,4 +22,8 @@
 
 ### 8. Longest Consecutive Sequence
 
-- Always compare current number to previous number with start at index 1 in array to avoid end-of-array (i.e. undefined) issues.
+- Always compare current element to previous element with start at index 1 in array to avoid end-of-array (i.e. undefined) issues.
+
+### 9. Valid Palindrome
+
+- Two-pointer technique, check the characters in both end of the string.
