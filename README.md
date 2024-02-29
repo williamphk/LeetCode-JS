@@ -18,7 +18,7 @@
 
 ### 6. Product Except Self
 
-- Implement a two-pass algorithm to aviod the division of zero.
+- Implement a two-pass algorithm to avoid the division of zero.
 
 ### 8. Longest Consecutive Sequence
 
