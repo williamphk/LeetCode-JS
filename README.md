@@ -27,3 +27,7 @@
 ### 9. Valid Palindrome
 
 - Two-pointer technique, check elements in both end of the array.
+
+### 12. Max Area
+
+- A clear condition should be provided in order to adjust the positions of the two pointers.
