@@ -35,3 +35,7 @@
 ### 12. Max Profit
 
 - A window "slides" forward to explore different buying and selling points.
+
+### 13. Longest Substring Without Repeating Characters
+
+- A condition should be set to determine when to move the left pointer.
