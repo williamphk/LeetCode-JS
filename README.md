@@ -28,6 +28,10 @@
 
 - Two-pointer technique, check elements in both end of the array.
 
-### 12. Max Area
+### 11. Max Area
 
 - A clear condition should be provided in order to adjust the positions of the two pointers.
+
+### 12. Max Profit
+
+- A window "slides" forward to explore different buying and selling points.
