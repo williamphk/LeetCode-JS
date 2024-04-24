@@ -46,6 +46,6 @@
 
 - A condition should be set to determine when to move the left pointer.
 
-### 15. Minimum Window Substring
+### Minimum Window Substring
 
 - Using a counter to track if the condition is being satistied through the loop.
