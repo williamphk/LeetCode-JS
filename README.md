@@ -26,7 +26,7 @@
 
 - Always compare current element to previous element with start at index 1 in array to avoid end-of-array (i.e. undefined) issues.
 
-## 2. Two Pointer
+## 2. Two Pointers
 
 ### Valid Palindrome
 
