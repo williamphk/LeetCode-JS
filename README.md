@@ -1,4 +1,4 @@
-# Key takeaways: 
+# Key Takeaways: 
 
 ## 1. Arrays & Hashing
 
